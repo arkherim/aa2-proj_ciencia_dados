@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# SQLite database files
+*.db
+*.sqlite
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
