@@ -1,7 +1,7 @@
-UNIVERSIDADE DO OESTE DE SANTA CATARINA - UNOESC
-Curso: Ciência de Dados e Inteligência Artificial
-Componente curricular: Projeto de Ciência de Dados
-Professor: Danton Jose Bertuol
+UNIVERSIDADE DO OESTE DE SANTA CATARINA - UNOESC<br>
+Curso: Ciência de Dados e Inteligência Artificial<br>
+Componente curricular: Projeto de Ciência de Dados<br>
+Professor: Danton Jose Bertuol<br>
 Aluno: Victor Lermen
 
 # Atividade Avaliativa 2: <br> Análise Histórica da Fórmula 1 com Data Warehouse e ETL
